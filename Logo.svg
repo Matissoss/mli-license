@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300" height="180" viewBox="0 0 300 180" fill="none" stroke="none" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="path_1" d="M300 0L300 0L300 180L0 180L0 0L300 0Z" />
+    <rect id="rect_2" x="0" y="0" width="300" height="180" />
+    <clipPath id="clip_path_3">
+      <use xlink:href="#rect_2" />
+    </clipPath>
+  </defs>
+  <g id="Logo" opacity="1" clip-path="url(#clip_path_3)">
+    <g>
+      <use xlink:href="#path_1" style="mix-blend-mode:normal;" />
+      <g>
+        <g id="Group">
+          <rect id="Rectangle" width="61" height="180" style="fill:#FF8400;fill-rule:evenodd;mix-blend-mode:normal;" />
+          <rect id="Rectangle" width="60" height="180" style="fill:#FF8400;fill-rule:evenodd;mix-blend-mode:normal;" transform="translate(121 0)" />
+          <rect id="Rectangle" width="125" height="60" style="fill:#FF8400;fill-rule:evenodd;mix-blend-mode:normal;" transform="translate(176 120)" />
+          <rect id="Rectangle" width="60" height="60" style="fill:#FF8400;fill-rule:evenodd;mix-blend-mode:normal;" transform="translate(241 0)" />
+          <rect id="Rectangle" width="50" height="91" style="fill:#FF8400;fill-rule:evenodd;mix-blend-mode:normal;" transform="translate(66 30)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

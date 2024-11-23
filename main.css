@@ -1,0 +1,23 @@
+:root{
+	--background_col: white;
+	--text_col: black;
+}
+
+body{
+	text-align: center;
+	font-size: 125%;
+}
+code{
+	width: 50vw;
+	height: 25vh;
+	color: var(--background_col)
+}
+.mli{
+	margin: auto;
+	width: 60%;
+	padding: 0.5vw;
+	background-color: var(--text_col);
+}
+.version{
+	margin: auto;
+}
