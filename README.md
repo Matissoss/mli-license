@@ -1,7 +1,7 @@
 <div align=center>
     <img src ="Logo.svg">
     <h1>MLI License</h1>
-    <p>MLI License is short, permissive license that allows for non-commercial and commercial use of original project, that requires author creditation and change of name of modified software.</p>
+    <p><b>Mateus License</b> (or <b>MLI</b> for short) is short, permissive license that allows for non-commercial and commercial use of original project, that requires author creditation and change of name of modified software.</p>
     <hr>
 </div>
 
